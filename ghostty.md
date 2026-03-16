@@ -3,4 +3,4 @@ font-size=18
 background-opacity=0.9
 background-blur=true
 
-keybind = cmd+right=goto_split:previous
+keybind = cmd+l=goto_split:previous
