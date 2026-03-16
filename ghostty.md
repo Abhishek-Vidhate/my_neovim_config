@@ -6,6 +6,3 @@ background-blur=true
 
 keybind = cmd+l=goto_split:previous
 ```
-```
-```
-```
